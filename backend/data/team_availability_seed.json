@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "role": "Frontend Developer",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 2,
+    "name": "Diya Patel",
+    "role": "Backend Developer",
+    "status": "Busy",
+    "timezone": "IST"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Kumar",
+    "role": "UI/UX Designer",
+    "status": "Away",
+    "timezone": "IST"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Singh",
+    "role": "Product Manager",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 5,
+    "name": "Arjun Mehta",
+    "role": "Full Stack Developer",
+    "status": "Busy",
+    "timezone": "IST"
+  },
+  {
+    "id": 6,
+    "name": "Meera Nair",
+    "role": "QA Engineer",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Rao",
+    "role": "DevOps Engineer",
+    "status": "Away",
+    "timezone": "IST"
+  },
+  {
+    "id": 8,
+    "name": "Ishita Gupta",
+    "role": "Data Analyst",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 9,
+    "name": "Karan Shah",
+    "role": "Mobile Developer",
+    "status": "Busy",
+    "timezone": "IST"
+  },
+  {
+    "id": 10,
+    "name": "Neha Verma",
+    "role": "Business Analyst",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 11,
+    "name": "Rahul Iyer",
+    "role": "Software Engineer",
+    "status": "Away",
+    "timezone": "IST"
+  },
+  {
+    "id": 12,
+    "name": "Sneha Kapoor",
+    "role": "Project Manager",
+    "status": "Busy",
+    "timezone": "IST"
+  },
+  {
+    "id": 13,
+    "name": "Aditya Joshi",
+    "role": "Frontend Developer",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 14,
+    "name": "Pooja Menon",
+    "role": "QA Engineer",
+    "status": "Away",
+    "timezone": "IST"
+  },
+  {
+    "id": 15,
+    "name": "Nikhil Das",
+    "role": "Backend Developer",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 16,
+    "name": "Kavya Reddy",
+    "role": "UI/UX Designer",
+    "status": "Busy",
+    "timezone": "IST"
+  },
+  {
+    "id": 17,
+    "name": "Siddharth Jain",
+    "role": "DevOps Engineer",
+    "status": "Available",
+    "timezone": "IST"
+  },
+  {
+    "id": 18,
+    "name": "Aishwarya Krishnan",
+    "role": "Data Scientist",
+    "status": "Away",
+    "timezone": "IST"
+  },
+  {
+    "id": 19,
+    "name": "Manish Gupta",
+    "role": "Full Stack Developer",
+    "status": "Busy",
+    "timezone": "IST"
+  },
+  {
+    "id": 20,
+    "name": "Priya Suresh",
+    "role": "Product Designer",
+    "status": "Available",
+    "timezone": "IST"
+  }
+]

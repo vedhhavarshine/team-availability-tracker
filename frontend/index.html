@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Team Availability Tracker</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header class="header">
+
+            <div>
+                <p class="eyebrow">TEAM DASHBOARD</p>
+
+                <h1>Team Availability Tracker</h1>
+
+                <p class="subtitle">
+                    Monitor and update team availability in real time.
+                </p>
+            </div>
+
+            <div class="live-indicator">
+                <span class="live-dot"></span>
+                Live
+            </div>
+
+        </header>
+
+
+        <section class="summary-grid">
+
+            <div class="summary-card available-card">
+                <span class="summary-label">Available</span>
+                <strong id="availableCount">0</strong>
+            </div>
+
+            <div class="summary-card busy-card">
+                <span class="summary-label">Busy</span>
+                <strong id="busyCount">0</strong>
+            </div>
+
+            <div class="summary-card away-card">
+                <span class="summary-label">Away</span>
+                <strong id="awayCount">0</strong>
+            </div>
+
+            <div class="summary-card total-card">
+                <span class="summary-label">Total Members</span>
+                <strong id="totalCount">0</strong>
+            </div>
+
+        </section>
+
+
+        <section class="controls">
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search team members..."
+            >
+
+            <select id="statusFilter">
+
+                <option value="All">All Statuses</option>
+                <option value="Available">Available</option>
+                <option value="Busy">Busy</option>
+                <option value="Away">Away</option>
+
+            </select>
+
+        </section>
+
+
+        <section>
+
+            <div
+                id="teamGrid"
+                class="team-grid"
+            ></div>
+
+        </section>
+
+
+        <p
+            id="lastUpdated"
+            class="last-updated"
+        >
+            Last updated: --
+        </p>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
